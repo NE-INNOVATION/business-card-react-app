@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import userAvatar from './assets/pritisolanki.png'
+import userAvatar from './assets/accenture-logo.png.png'
 import mail from './assets/mail-142.svg'
 import './App.css'
 import  Footer  from './components/Footer/Footer.jsx'
